@@ -1,0 +1,23 @@
+{
+  "name": "veil",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "node --test tests/kdf.test.mjs tests/crypt.test.mjs tests/guard.test.mjs",
+    "test:integration": "node tests/integration.mjs",
+    "build:pages": "node tools/build-standalone.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "wrangler": "4.164.0"
+  },
+  "private": true
+}

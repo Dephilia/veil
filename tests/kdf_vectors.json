@@ -1,0 +1,32 @@
+[
+  {
+    "passphrase": "correct horse battery staple",
+    "salt": "000102030405060708090a0b0c0d0e0f",
+    "key": "3bc2a3f31ea4afe49a93825c0eb68dbf4739a0d68626c24a99c255ee1392b9ed"
+  },
+  {
+    "passphrase": "パスフレーズ🔐ü",
+    "salt": "ffeeddccbbaa99887766554433221100",
+    "key": "ff4ea5d00d11293c5b7205747aaac47a5f51610f6360e73ef3158d23f9c2aa9f"
+  },
+  {
+    "passphrase": "",
+    "salt": "a1a2a3a4a5a6a7a8a9aaabacadaeafb0",
+    "key": "fd6f70bbb24f925f5f96df2f9113abdb633debd2e27d83aa00efb8bda51452cd"
+  },
+  {
+    "passphrase": "short",
+    "salt": "7f",
+    "key": "2dd96ef07686bc051a50d52e400208e3a2787c18024300ee765bd5bb13d6ff93"
+  },
+  {
+    "passphrase": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "salt": "00000000000000000000000000000000",
+    "key": "1c14075713d7252942ed91ec6aabea3fac34d836bf1a78f9c74e59432c05ffc7"
+  },
+  {
+    "passphrase": "ABCDEFGHJKLMNPQRSTUVWXYZ",
+    "salt": "0123456789abcdef0123456789abcdef",
+    "key": "bca98983807eae74733262ef35d8d7abc35d49e7a486275938f7be80012d898f"
+  }
+]
