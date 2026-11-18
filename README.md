@@ -61,3 +61,7 @@ The header stores `stages` and `itersPerStage`, and the decryptor re-derives fro
   plus per-block CRC-32. This needs a Workers plan with a CPU limit above the free tier's 10 ms.
 - The browser holds the whole PNG in memory before the download starts; above ~100 MB that is uncomfortable.
 - A PNG carries ~100 MB of payload comfortably; past that the chunk count and the browser memory both grow.
+
+## License
+
+ISC. See [LICENSE](LICENSE).
